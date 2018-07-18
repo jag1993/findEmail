@@ -1,0 +1,24 @@
+{
+  "name": "findEmail",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jag1993/findEmail.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jag1993/findEmail/issues"
+  },
+  "homepage": "https://github.com/jag1993/findEmail#readme",
+  "dependencies": {
+    "bluebird": "^3.5.1",
+    "nightmare": "^3.0.1"
+  }
+}
